@@ -34,5 +34,6 @@ Due to confidentiality agreements with Biteye Group, this repository does not co
 <br/><br/>
 
 <img width="300" alt="mobile-login" src="https://github.com/user-attachments/assets/f2f50208-b2ec-42b0-80f1-2b234bae698d" />&nbsp;&nbsp;&nbsp;
+<img width="300" alt="mobile-login-dark" src="https://github.com/user-attachments/assets/8b7114e7-b974-4235-bf45-1fdcc628d209" />&nbsp;&nbsp;&nbsp;
 <img width="300" alt="mobile-dashboard" src="https://github.com/user-attachments/assets/341743da-6805-473c-a4cd-a67e0f96bb03" />&nbsp;&nbsp;&nbsp;
 <img width="300" alt="mobile" src="https://github.com/user-attachments/assets/a8076b6c-6115-419f-a29a-e227cbe41aa0" />
