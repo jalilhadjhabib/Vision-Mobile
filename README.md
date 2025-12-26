@@ -18,19 +18,21 @@ The app's frontend was developed using advanced web technologies, ensuring a res
 
 Due to confidentiality agreements with Biteye Group, this repository does not contain the actual codebase. For further information or inquiries, please contact me directly.
 
+<img width="1450" height="833" alt="desktop-login" src="https://github.com/user-attachments/assets/6331dbae-dd1f-4bc7-95d7-00346409fd10" />
+<br/><br/>
 
-![mobile (12)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/81ea2a58-c9c0-43ab-8237-7195b3dd24a6)
-![mobile (11)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/ad7663a4-f8c1-46e0-ba75-628bce5eca1a)
-![mobile (10)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/b3242dee-a6fa-458f-9ee6-e47e21e83120)
-![mobile (9)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/46312065-f25d-48ee-877c-9a652c431a4a)
-![mobile (8)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/3642449f-a6c1-4f45-b449-72cd8d83311b)
-![mobile (7)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/566d8b4f-95bc-413b-90a8-4a32f4b8f260)
-![mobile (6)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/f1a4a3fd-5c4f-41ec-a9ff-46f3d14d22d7)
-![mobile (5)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/d6f4b9f4-de83-4744-b441-0a83b3d4691d)
-![mobile (4)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/5c33d805-43d7-4866-95bc-ca492cdf3be8)
-![mobile (3)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/97446086-5b46-4c1f-a1ab-31d19226f5a8)
-![mobile (2)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/cd792040-6afe-4f84-abb6-9405bff1a26c)
-![mobile (1)](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/0eec8f9c-c5e1-473b-923c-7175b137991a)
-![mobile](https://github.com/jalilhadjhabib/Vision-Mobile/assets/101253359/f2fcea6e-2fc4-4c4a-8894-ae28bc4bb83a)
+<img width="1450" height="833" alt="desktop-demande-dark" src="https://github.com/user-attachments/assets/695ed8dc-791d-4fc5-89ee-0f921958901a" />
+<br/><br/>
 
+<img width="1450" height="833" alt="desktop-demande" src="https://github.com/user-attachments/assets/693e921e-3ca0-4775-bcc7-786a731f7da4" />
+<br/><br/>
 
+<img width="1450" height="833" alt="desktop-dashboard" src="https://github.com/user-attachments/assets/9734e8e6-cc52-4d46-832c-3bb141f06217" />
+<br/><br/>
+
+<img width="1450" height="833" alt="desktop-settings" src="https://github.com/user-attachments/assets/d058fbe1-1356-48c0-9ef6-414ad933f01a" />
+<br/><br/>
+
+<img width="300" alt="mobile-login" src="https://github.com/user-attachments/assets/f2f50208-b2ec-42b0-80f1-2b234bae698d" />&nbsp;&nbsp;&nbsp;
+<img width="300" alt="mobile-dashboard" src="https://github.com/user-attachments/assets/341743da-6805-473c-a4cd-a67e0f96bb03" />&nbsp;&nbsp;&nbsp;
+<img width="300" alt="mobile" src="https://github.com/user-attachments/assets/a8076b6c-6115-419f-a29a-e227cbe41aa0" />
